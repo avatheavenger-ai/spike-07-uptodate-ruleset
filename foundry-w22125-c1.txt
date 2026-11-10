@@ -1,0 +1,1 @@
+ruleset, strict + foundry/fingerprint, no bypass actors: second
